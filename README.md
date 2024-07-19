@@ -1,4 +1,4 @@
-# Python Port Scanner
+# Port Scanner from scratch using Python
 
 This Python script is a simple yet effective port scanner that allows you to check for open ports on a specified target. The script resolves both IP addresses and hostnames, performs banner grabbing to gather information about the services running on open ports, and can scan a range of ports for multiple targets.
 
